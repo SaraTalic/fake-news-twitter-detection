@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on detecting fake news and misinformation on the social media platform **Twitter** using machine learning techniques. The main goal is to explore the predictive power of different types of features—**user-based**, **textual**, and **emotional**—as well as their combinations, in classifying tweets as credible or not.
+This project focuses on detecting fake news and disinformation on the social media platform **Twitter** using machine learning techniques. The main goal is to explore the predictive power of different types of features—**user-based**, **textual**, and **emotional**—as well as their combinations, in classifying tweets as credible or not.
 
 ## Dataset
 
@@ -51,6 +51,9 @@ Each model was trained and tested separately on each feature group, as well as o
 Evaluation metrics such as **accuracy**, **precision**, **recall**, and **F1-score** were used to assess model performance. Feature importance was analyzed to identify which attributes most influenced the classification.
 
 ## Citation
+
 Inspired by:
+
 [1] M. Al-Tarawneh, O. Al-irr, K. Al-Maaitah, H. Kanj and W. Aly, „Enhancing Fake News Detection with Word Embedding: A Machine Learning and Deep Learning Approach,“ Preprints, 2024. https://doi.org/10.20944/preprints202407.2317.v1
+
 [2] X. Zhou, A. Jain, V. Phoha and R. Zafarani, “Fake News Early Detection: A Theory-driven Model”, 2019. https://arxiv.org/abs/1904.11679
